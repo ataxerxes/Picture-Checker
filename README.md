@@ -60,7 +60,9 @@ Thank you for reading this
 In case of grammer mistakes, keep them for yourself!!!!
 
 In case of problems or bugs with the programm please conntact me. 
+
  ¯\_(ツ)_/¯
+
 
 copyright Ataxerxes
 ataxerxes95@gmail.com
